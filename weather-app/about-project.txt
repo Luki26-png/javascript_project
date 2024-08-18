@@ -3,3 +3,7 @@ and upon clicking the "Get Weather" button,
 the application will use AJAX to fetch weather data for that city from the OpenWeatherMap API. 
 The retrieved weather information, 
 uch as temperature, weather condition, and potentially other details, will then be displayed on the webpage.
+
+
+Use the OpenWeatherMap API (https://openweathermap.org/api) 
+to fetch weather data. You'll need to sign up for an API key.
